@@ -1,0 +1,17 @@
+{
+  "name": "proyect-merge-pdf-in-bulk",
+  "version": "1.0.0",
+  "description": "Mediante el siguiente proyecto de fusionan varios pdf en uno solo de forma masiva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Vergara V",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "fs": "^0.0.1-security",
+    "pdf-merger-js": "^5.1.1"
+  },
+  "type": "module"
+}
